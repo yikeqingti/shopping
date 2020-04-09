@@ -1,0 +1,102 @@
+<Tabs tabs="{{tabs}}" bindtabsItemChange="handleTabsItemChange">
+<view class="order_main">
+  <view class="order_item">
+    <view class="order_no_row">
+      <view class="order_no_text">订单编号</view>
+      <view class="order_no_calue">E175f6464af6s446f48w4fs000000</view>
+    </view>
+    <view class="order_price_row">
+      <view class="order_price_text">订单价格</view>
+      <view class="order_price_value">￥ 14999</view>
+    </view>
+    <view class="order_time_row">
+      <view class="order_time_text">订单日期</view>
+      <view class="order_time_value">2020-3-21 18:00</view>
+    </view>
+  </view>
+  <view class="order_item">
+    <view class="order_no_row">
+      <view class="order_no_text">订单编号</view>
+      <view class="order_no_calue">E175f6464af6s446f48w4fs000000</view>
+    </view>
+    <view class="order_price_row">
+      <view class="order_price_text">订单价格</view>
+      <view class="order_price_value">￥ 14999</view>
+    </view>
+    <view class="order_time_row">
+      <view class="order_time_text">订单日期</view>
+      <view class="order_time_value">2020-3-21 18:00</view>
+    </view>
+  </view>
+  <view class="order_item">
+    <view class="order_no_row">
+      <view class="order_no_text">订单编号</view>
+      <view class="order_no_calue">E175f6464af6s446f48w4fs000000</view>
+    </view>
+    <view class="order_price_row">
+      <view class="order_price_text">订单价格</view>
+      <view class="order_price_value">￥ 14999</view>
+    </view>
+    <view class="order_time_row">
+      <view class="order_time_text">订单日期</view>
+      <view class="order_time_value">2020-3-21 18:00</view>
+    </view>
+  </view>
+  <view class="order_item">
+    <view class="order_no_row">
+      <view class="order_no_text">订单编号</view>
+      <view class="order_no_calue">E175f6464af6s446f48w4fs000000</view>
+    </view>
+    <view class="order_price_row">
+      <view class="order_price_text">订单价格</view>
+      <view class="order_price_value">￥ 14999</view>
+    </view>
+    <view class="order_time_row">
+      <view class="order_time_text">订单日期</view>
+      <view class="order_time_value">2020-3-21 18:00</view>
+    </view>
+  </view>
+  <view class="order_item">
+    <view class="order_no_row">
+      <view class="order_no_text">订单编号</view>
+      <view class="order_no_calue">E175f6464af6s446f48w4fs000000</view>
+    </view>
+    <view class="order_price_row">
+      <view class="order_price_text">订单价格</view>
+      <view class="order_price_value">￥ 14999</view>
+    </view>
+    <view class="order_time_row">
+      <view class="order_time_text">订单日期</view>
+      <view class="order_time_value">2020-3-21 18:00</view>
+    </view>
+  </view>
+  <view class="order_item">
+    <view class="order_no_row">
+      <view class="order_no_text">订单编号</view>
+      <view class="order_no_calue">E175f6464af6s446f48w4fs000000</view>
+    </view>
+    <view class="order_price_row">
+      <view class="order_price_text">订单价格</view>
+      <view class="order_price_value">￥ 14999</view>
+    </view>
+    <view class="order_time_row">
+      <view class="order_time_text">订单日期</view>
+      <view class="order_time_value">2020-3-21 18:00</view>
+    </view>
+  </view>
+  <view class="order_item">
+    <view class="order_no_row">
+      <view class="order_no_text">订单编号</view>
+      <view class="order_no_calue">E175f6464af6s446f48w4fs000000</view>
+    </view>
+    <view class="order_price_row">
+      <view class="order_price_text">订单价格</view>
+      <view class="order_price_value">￥ 14999</view>
+    </view>
+    <view class="order_time_row">
+      <view class="order_time_text">订单日期</view>
+      <view class="order_time_value">2020-3-21 18:00</view>
+    </view>
+  </view>
+</view>
+</Tabs>
